@@ -13,14 +13,14 @@ Link : "https://doinglistapp.herokuapp.com/"
    where you can restart from the defualt options and make changes to it.
    
 What I have used and learned :
-> Node.js
-> MongoDB (Along with creating , storing , fetching data from a remote online database using "MongoDB Atlas" )
-> Deploying my web on remote online server "Heroku" (for anytime access)
-> Git , GitHub And Version Control
-> Express.js
-> EJS
-> JavaScript
-> HTML 
+> Node.js , 
+> MongoDB (Along with creating , storing , fetching data from a remote online database using "MongoDB Atlas" ) , 
+> Deploying my web on remote online server "Heroku" (for anytime access) , 
+> Git , GitHub And Version Control , 
+> Express.js , 
+> EJS , 
+> JavaScript , 
+> HTML , 
 > CSS
 
 Just tried to implement the basic things which can be done using backend creating multiple web pages using EJS from same CSS Template , 
